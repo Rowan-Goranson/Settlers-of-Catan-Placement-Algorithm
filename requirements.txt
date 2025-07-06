@@ -1,0 +1,5 @@
+#NECESSARY LIBRARIES:
+#- pandas (analyze data from backtests)
+#- optuna (this is for hyperparameter tuning)
+
+pandas optuna
